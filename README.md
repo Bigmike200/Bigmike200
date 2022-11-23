@@ -7,7 +7,7 @@ Web Developer
 I'm a web developer. I'm passionate about coding
 
 *   🌍  I'm based in Enugu, Nigeria
-*   ✉️  You can contact me at [edehmichael16@gmail.com](mailto:edehmichael16@gmail.com)
+*   ✉️  You can contact me at [edehifeanyichukwu16@gmail.com](mailto:edehifeanyichukwu16@gmail.com)
 *   🧠  I'm learning PHP
 *   🤝  I'm open to collaborating on Open source projects### Skills 
 <p align="left">
